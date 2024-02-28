@@ -1,0 +1,7 @@
+name: LockItemAPI
+main: ocm.sherko.lockitem.LockedItemPlugin
+version: "1.0.0"
+api: ["1.0.14"]
+author: Sherko
+description: Simple Item Lock API
+prefix: "§dLockItemAPI§r"
