@@ -1,5 +1,5 @@
 name: LockItemAPI
-main: ocm.sherko.lockitem.LockedItemPlugin
+main: com.sherko.lockitem.LockedItemPlugin
 version: "1.0.0"
 api: ["1.0.14"]
 author: Sherko
